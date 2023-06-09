@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Neko</h1>
-<h3 align="center">endeavor</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/119496228/244701320-c95122e4-dda8-4bc3-b83e-5fe7d5e0b1af.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishma-a&label=Profile%20views&color=0e75b6&style=flat" alt="krishma-a" /> </p>
 
