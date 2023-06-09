@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neko</h1>
-<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/119496228/244701320-c95122e4-dda8-4bc3-b83e-5fe7d5e0b1af.png"/>
+<img align="right" alt="Coding" width="600" height="300" src="https://miro.medium.com/v2/resize:fit:1400/0*_Auiz0NB_QS0JDrS.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishma-a&label=Profile%20views&color=0e75b6&style=flat" alt="krishma-a" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
-- ⚡ Fun fact **I am a slacker**
+- ⚡ Fun fact **I am addicted to novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
